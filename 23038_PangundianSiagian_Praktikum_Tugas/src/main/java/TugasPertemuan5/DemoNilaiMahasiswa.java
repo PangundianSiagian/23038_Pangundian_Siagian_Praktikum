@@ -77,7 +77,7 @@ public class DemoNilaiMahasiswa {
          System.out.println("\nHasil Cetak");
          System.out.println("NPM Mahasiswa   : "+NPM);
          System.out.println("Nama Mahasiswa  : "+Nama);
-         System.out.println("Nilai Akhir     : "+nilaiAkhir);
+         System.out.println("Nilai Rata-rata : "+nilaiAkhir);
          System.out.println("Grade           : "+mutuNilai);
          System.out.println("Keterangan      : "+keterangan);
          System.out.println("==============TERIMA KASIH TELAH BERKUNJUNG===================");
