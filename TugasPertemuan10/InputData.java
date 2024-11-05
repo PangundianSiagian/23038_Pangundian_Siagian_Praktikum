@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package TugasPertemuan10;
+//Berfungsi untuk mengimport array list
 import java.util.ArrayList;
 /**
  *
