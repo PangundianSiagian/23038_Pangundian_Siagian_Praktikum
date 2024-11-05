@@ -5,7 +5,7 @@
 package TugasPertemuan10;
 //Berfungsi untuk menampilkan menu opsi
 import javax.swing.JOptionPane;
-//Berfungsi untuk 
+//Berfungsi untuk membuat tabel
 import javax.swing.table.DefaultTableModel;
 /**
  *
